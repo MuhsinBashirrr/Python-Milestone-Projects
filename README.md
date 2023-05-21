@@ -4,7 +4,7 @@ This repository contains a collection of Python milestone projects. Each project
 
 ## Project List
 
-1. **Project 1**: Tic Tac Toe Game
+1. **Project 1**: [Tic Tac Toe Game](00-(TICTACTOE).ipynb)
 - Description: Implement the classic Tic Tac Toe game where two players take turns marking spaces on a 3x3 grid to achieve a winning pattern.
 - Skills Developed: 2D lists, loops, conditional statements, functions, and basic game logic.
 
